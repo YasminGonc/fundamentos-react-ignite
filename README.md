@@ -24,5 +24,12 @@ Por sua vez, as propriedades são informações que podemos passar aos component
 
 ## Tela da aplicação
 
-![](src/assets/print.png)
+![](src/assetsGH/print.png)
 
+## Deploy da aplicação
+
+[Ignite feed](https://fundamentos-react-ignite.vercel.app/)
+
+<br>
+
+Caso prefira abrir a aplicação no localhost basta digitar o comando `npm run dev`
