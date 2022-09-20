@@ -24,7 +24,7 @@ Por sua vez, as propriedades são informações que podemos passar aos component
 
 ## Tela da aplicação
 
-![](src/assetsGH/print.png)
+![](assetsGH/print.png)
 
 ## Deploy da aplicação
 
